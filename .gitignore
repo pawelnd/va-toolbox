@@ -1,0 +1,131 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+venv/
+*.egg-info/
+.installed.cfg
+*.egg
+*.whl
+build/
+develop-eggs/
+.eggs/
+dist/
+# If using Poetry
+poetry.lock
+# If using Pipenv
+Pipfile
+Pipfile.lock
+
+# MyPy cache
+.mypy_cache/
+
+# PyInstaller
+#  Usually these files are written by PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+*.cover
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+*.log
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+
+# Flask stuff:
+instance/
+.webassets-cache
+*.db
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+.jupyter_cache/
+
+# Environments
+.env
+.env.local
+.venv
+.env.*.local
+
+# PyCharm
+.idea/
+
+# IDE-specific files (VSCode, Sublime, etc.)
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# macOS files
+.DS_Store
+
+# Thumbnails
+Thumbs.db
+
+# Temporary files for editors
+*.swp
+*.temp
+*~
+
+# Coverage
+*.cover
+*.lcov
+.cache
+.pytest_cache/
+
+# Test debugs
+debug.log
+
+# Ignore Poetry's cache of virtual environments in `.venv`
+# Documentation: https://python-poetry.org/docs/configuration/#virtualenvsin-project
+.venv/
+
+# pyenv
+.python-version
+
+# pytest cache directory
+.pytest_cache/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# AWS CLI files
+.aws/
+.idea
